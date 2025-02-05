@@ -8,7 +8,7 @@ tags = [
     "VHF",
     "UHF",
     "2M",
-    "7cm",
+    "70cm",
     "BYOD",
 ]
 +++
@@ -18,7 +18,7 @@ tags = [
 ## What is it?
 
 Packet radio is a digital mode common on VHF/UHF (although there's HF packet as well).
-It typically uses a 2M/7cm transceiver (the black box mounted under the shelf in the above photo) and a terminal node controller (TNC, the white box on the shelf in the above picture) to send audio signals that represent data.
+It typically uses a 2M/70cm transceiver (the black box mounted under the shelf in the above photo) and a terminal node controller (TNC, the white box on the shelf in the above picture) to send audio signals that represent data.
 The most common mode for packet is 1200 baud audio frequency shift keying (1200 AFSK) although other modes exist that can go much faster.
 
 This particular setup is an [IC-208H](/byod-packet/IC-208H.pdf) hooked up to a [NinoTNC A3](https://tarpn.net/t/nino-tnc/n9600a/n9600a_operation.html).
