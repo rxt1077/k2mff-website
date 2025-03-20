@@ -27,6 +27,6 @@ The welcoming address and closing remarks were given by Dr. Nathaniel Frissell W
 One of the neatest things about attending a HamSCI conference is that you get to meet and talk with people who are experts in their corner of the amateur radio universe.
 K2MFF leadership was able to attend a [Collegiate Amateur Radio Program (CARP)](https://www.arrl.org/collegiate-amateur-radio) meeting in-person with Bob Inderbitzen NQ1R.
 Derek Kozel K0ZEL/MW0LNA was even nice enough to sit down with us and answer some of our very basic GNU Radio questions.
-I personally had the opportunity to meet and talk with [Phil Karn KA9Q](https://github.com/ka9q/ka9q-radio), [Steve Strohl N8GNJ](https://www.zeroretries.org/), and [Gwyn Griffiths G3ZIL](https://hamsci.org/publications?s=author&f%5Bag%5D=G&f%5Bauthor%5D=307) all of whom I've been want to meet.
+I personally had the opportunity to meet and talk with [Phil Karn KA9Q](https://github.com/ka9q/ka9q-radio), [Steve Strohl N8GNJ](https://www.zeroretries.org/), and [Gwyn Griffiths G3ZIL](https://hamsci.org/publications?s=author&f%5Bag%5D=G&f%5Bauthor%5D=307) all of whom I've been wanting to meet.
 
 So to all participants and everyone who helped make this successfull, thank you and see you in 2026!
