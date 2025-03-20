@@ -65,7 +65,7 @@ Once connected to the BBS, type `?` in the bottom text box to see what it can do
 
 Installing software (especially ham radio software!) can be a taxing exercise for a newcomer.
 BYOD allows someone to set it up how they would like to use it and not have to worry about where the software is, what version they're running, or messing something up for the next person.
-If an advanced use wants to use different software on their device, they're welcome to.
+If an advanced user wants to use different software on their device, they're welcome to.
 Likewise, once a beginner gets things working on their laptop they can be sure that the next time they come in things will be where they put them!
 
 ## Why a Physical TNC?

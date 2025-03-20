@@ -1,5 +1,5 @@
 ---
-title: "Licensed"
+title: "Getting Licensed"
 menu: "main"
 weight: 5
 hideReply: true
