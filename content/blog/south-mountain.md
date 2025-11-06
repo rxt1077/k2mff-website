@@ -14,13 +14,13 @@ tags = [
     "sstv",
     "ae2ec",
     "n2bp",
-    "ke2fuv",
+    "wv1p",
 ]
 +++
 
 <img alt="Map with South Mountain Reservation" src="/south-mountain/map.png" width=100% class="center">
 
-Today, Ethan Clark AE2EC, Matt Viray KE2FUV, and Ryan Tolboom N2BP met up in the shack at NJIT and took a trip to [South Mountain Reservation](https://essexcountyparks.org/parks/south-mountain-reservation).
+Today, Ethan Clark AE2EC, Matt Viray WV1P, and Ryan Tolboom N2BP met up in the shack at NJIT and took a trip to [South Mountain Reservation](https://essexcountyparks.org/parks/south-mountain-reservation).
 Ethan found an excellent location to operate from, down the road from the dog park, and brought his mobile rig which includes a giant telescoping mast, a few "less than random" lengths of wire, a tuner that has mostly survived a lightning strike, an [ICOM IC-7300](https://www.icomamerica.com/lineup/products/IC-7300/), and an LiFePO4 battery.
 The foliage was beautiful and the weather couldn't have been nicer.
 
