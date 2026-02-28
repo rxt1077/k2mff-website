@@ -5,6 +5,12 @@ weight: "2"
 hideReply: true
 ---
 
+# 2026 Executive Board (election held in February)
+
+* President: Christian Ramirez - KE2HJO
+* Vice-President: Ethan Clarke - AE2EC
+* Treasurer: Andy Bhokal - KE2HSQ
+
 # 2024-2025 Executive Board
 
 * President: Grace Revoredo - KE2CBY
