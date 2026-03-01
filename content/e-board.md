@@ -5,7 +5,7 @@ weight: "2"
 hideReply: true
 ---
 
-# 2026 Executive Board (election held in February)
+# 2026 Executive Board
 
 * President: Christian Ramirez - KE2HJO
 * Vice-President: Ethan Clarke - AE2EC
