@@ -10,6 +10,8 @@ hideReply: true
 * President: Christian Ramirez - KE2HJO
 * Vice-President: Ethan Clarke - AE2EC
 * Treasurer: Andy Bhokal - KE2HSQ
+* Secretary: Matt Viray - WV1P
+* PR Rep: Jordan Torres - KG7WMI
 
 # 2024-2025 Executive Board
 
