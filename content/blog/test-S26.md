@@ -12,7 +12,7 @@ tags = [
 +++
 
 On April 1st, 2026 in collaboration with [W5YI](https://www.w5yi.org/), K2MFF members gave a licensing exam to 11 hopeful students!
-Our very own Jason WX2Q trained the VECs, brought the materials, and administered the tests.
+Our very own Jason WX2Q trained the VEs, brought the materials, and administered the tests.
 W5YI covered the student testing and licensing fees through their excellent youth licensing program!
 
 ![A successful test taker gives a double thumbs up](/test-S26/double-thumbs-up.jpg)
