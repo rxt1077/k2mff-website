@@ -24,7 +24,7 @@ Throughout his distinguished professional career, he worked for leading organiza
 His work took him throughout the Caribbean, Chicago, and Eastern Canada, giving him the opportunity to apply his expertise in a variety of technical settings.
 He also shared his knowledge as an instructor at Barringer High School, Essex County Community College, and Essex County Vocational Technical Schools.
 
-As K2MFF continues to work towards its goal of updating the equipment in the shack and antenna systems for our 100th aniversary, Calrence's donation will play an important role as we test and replace equipment.
+As K2MFF continues to work towards its goal of updating the equipment in the shack and antenna systems for our 100th aniversary, Clarence's donation will play an important role as we test and replace equipment.
 NJIT and K2MFF are deeply grateful for Clarence's generosity and commitment to education.
 His donation is more than a gift of equipment—it is an investment in the next generation of amateur radio operators, engineers, and lifelong learners.
 Thanks to alumni like Clarence, current and future students will have the opportunity to develop practical skills, explore emerging technologies, and carry forward the spirit of curiosity and innovation that has long defined amateur radio.
